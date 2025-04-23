@@ -1,0 +1,6 @@
+*.log
+*.csv
+*.tsv
+*.html
+*.dat
+.idea/
